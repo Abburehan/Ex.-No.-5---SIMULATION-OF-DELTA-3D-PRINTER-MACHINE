@@ -1,6 +1,6 @@
 # Ex. No. 5 - SIMULATION-OF-DELTA-3D-PRINTER-MACHINE
 
-### DATE: 
+### DATE: 22-11-2023
 ## AIM:
 ### To simulate the construction of delta 3D printer and to get in-depth knowledge of mechatronics of delta 3D printer.
 
@@ -25,14 +25,20 @@
 ### 3.	Move the z3-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z3-axis assembly.
 
 ## OUTPUT:
-![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/10304caa-3e0f-4c4a-bd73-3cadb477a64b)
+![image](https://github.com/Abburehan/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/138849336/88f71136-8710-4167-af50-0696049d3d82)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/1f3e6b6d-0724-41dc-b7d2-15516060d066)
+![image](https://github.com/Abburehan/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/138849336/541814bc-01b8-440a-8fdd-b03eca5c408b)
 
-## Output:
 
-### Name:
-### Register Number:
+
+
+
+## OUTPUT:
+![image](https://github.com/Abburehan/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/138849336/c72050d7-69ac-4eb0-a4af-a2f2a4367048)
+
+
+### Name: Abbu Rehan
+### Register Number: 23010259
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
